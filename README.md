@@ -4,7 +4,7 @@ This repo contains a couple coding challenges I solved from dailycodingproblem.c
 
 The README.md of each challenge always contains the question I got in my mailbox.
 
-Every solution is written in Javascript with the same template bundled by Parcel.js
+Every solution is written in Javascript using Node.js
 
 # Contributing
 

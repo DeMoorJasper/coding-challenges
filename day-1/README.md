@@ -1,4 +1,4 @@
-# Day 1
+# Day 1 [EASY]
 
 This problem was recently asked by Google.
 
